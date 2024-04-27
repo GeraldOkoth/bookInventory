@@ -1,2 +1,2 @@
 
-This project implements an online system of managing book inventory.
+## This project implements an online system of managing _book inventory_
